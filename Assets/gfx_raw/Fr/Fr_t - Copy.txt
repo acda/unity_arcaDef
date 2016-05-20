@@ -1,0 +1,499 @@
+aborder								|ansprechen/eingehen/in Angriff nehmen/herangehen/nähern					| 330|012467
+abîmer								|abnutzen/strapazieren, beschädigen/kaputtmachen, verderben/runinieren		|  99|0033337
+accoucher							|entbinden/niederkommen														| 426|02659
+accrocher							|befestigen/aufhängen/einhaken/anhängen/festmachen							| 464|59
+accroître							|steigern/vergrößern/mehren													|  72|000092043360506
+accueillir							|aufnehmen/empfangen/ankommen, honorieren									|  55|42379
+acquis (adj)						|erworben/erlernt/antrainiert												| 263|44639
+affamé (adj)						|hungrig																	| 105|012343505496
+afin-que, afin-de					|damit, um ... zu															|  69|03012343505359
+aggraver							|verschlimmern/verschärfen/zuspitzen										| 193|9
+agité (adj)							|unruhig/aufgeregt/bewegt													| 448|0110245199
+aigle (m)							|Adler																		| 473|022599
+aisément							|leicht/mühelos/ohne weiteres												| 302|1355339
+aléatoire (adj)						|zufällig																	| 311|9
+amener								|(Personen) herbringen/mitbringen											| 430|669
+améliorer							|verbessern, nachbessern													| 323|642527
+aménager							|einrichten/anlegen, anordnen, ausbauen/ausstatten							| 243|0203547
+apporter							|(Dinge) herbringen/mitbringen												| 485|9
+approfondi(e) (adj)					|gründlich/sorgfältig/vertieft/genau										|  29|30410356537
+arracher							|ausreissen/abreissen/ausrupfen												|  39|749
+arroser								|(Rasen) sprengen, begiessen, berieseln										| 141|003066
+atroce								|grässlich																	| 450|136939
+avouer								|gestehen/eingestehen/zugeben												|   0|0000002144000111
+bavarder							|schwatzen/plaudern															| 223|732352069
+boire la tasse						|baden gehen/scheitern, Wasser schlucken									| 132|
+bondir								|springen/aufspringen														| 443|04045779
+bondé(e)							|überfüllt / vollgestopft.     Le Métro ***** - überfüllte Metro.			| 249|9
+bosser								|buckeln, malochen, schaffen.												| 325|55677
+bourré (adj)						|randvoll/vollgestopft, besoffen/knülle, prall voll							| 143|013522916
+brailler							|brüllen/schreien/grölen, laut weinen/plärren								| 199|29
+bâclé(e) (adj)						|schludrig/gepfuscht/schlampig												|  50|137
+bée (adj)							|geöffnet (Mund)   bouche bée: baff sein, geöffnetem Mund dastehen.			|  35|0335377
+censé								|verlangen/erwarten/wissen daß  ??											|  89|
+chialer								|flennen/heulen																| 232|002334660026
+chiant (adj)						|nervig/beschissen/saublöd													| 154|01152359
+chuchoter							|murmeln/fluestern															|  48|0002124212231540123
+coincer								|einklemmen/drücken/klemmen													| 393|99
+coincé(e)							|eingeklemmt																| 460|99
+confier qc à qn						|etwas anvertrauen/beauftragen/überlassen									| 226|024669
+congelè(e)							|gefrohren (tiefkühl)														|  96|9
+contempler							|bewundern/anschauen/betrachten												| 374|5402439
+contrariée							|verärgert/verstimmt														| 225|
+convier								|bitten/auffordern/laden													| 316|44040003450030256438
+convoiter							|anstreben/begehren/gieren													|  15|000000000
+couler								|fliessen/strömmen/rinnen, (naut)untergehen									| 459|427699
+coulisser							|verschieben/in Führung gleiten												| 157|0477
+craindre							|befürchten																	| 106|0
+crasseux (adj)						|dreckig/schmutzig															| 270|0264
+creuser								|graben/ausgraben/aushöhlen/ausheben										| 224|000024435443427
+croquer								|knabbern/beissen, knacken/knirschen, (zeichnen)skizzieren/umreissen/schnell entwerfen| 177|00336043666
+deviner								|raten/erraten/ahnen/herausfinden  (nicht verwchs. devenir)					| 289|02423232470329
+douce (adj)							|angenehm/weich/süß/sanft/ruhig												| 476|749
+draguer								|schleppnetzfischen, ausbaggern, (mädels) anbaggern							| 380|9
+dur									|fest/hart																	| 138|
+déchirer							|zerreissen/zerfetzen/reissen												| 470|99
+décrocher							|abnehmen/abheben, erobern/erschließen, geistig abschalten/ausklinken		| 195|
+décéder								|sterben/versterben															| 121|89
+défaillir							|ohnmächtig werden, nachlassen/schwinden, sinken, schwach werden.			| 203|013033303324243577
+défaire								|Auspacken,auseinandernehmen,raisziehen,auswickeln,aufmachen,...			| 408|3729
+défiler								|dahinziehen/vorrübergehen/vorbeimarschieren								| 373|00125200023
+déguster							|ertragen/leiden, zu höhren bekommen, geniessen								| 319|
+déhancher							|Hufte schwingen															| 268|22479
+déjucher							|aufscheuchen, wegfliegen													| 251|634549
+démarrer							|losfahren, starten, in Gang kommen, anlaufen, beginnen						| 421|99
+démentiel							|unsinnig/verrückt															| 314|23459
+déraper								|ausrutschen, schleudern, rutschen											| 347|01034
+dérober								|entwenden/stehlen, versagen												| 166|
+désespéré (adj)						|verzweifelt/aussichtslos/ausweglos											| 153|25233569
+désormais							|von nun an/nunmehr															| 258|0246759
+déteindre							|ausbleichen/verblassen, abfärben/verfärben									|  42|3905
+détendre							|entspannen/ausruhen/erholen												|  67|030223628
+déçu (adj)							|enttäuscht																	| 292|49
+edulcoré							|gesüßt/versüsst (mit Zucker/Süßstoff)										| 303|69
+embrasser							|umarmen/küssen																|   2|395
+emmener								|(Personen) hinbringen (begleiten)											| 239|0
+emploi (m)							|Arbeit/Stellung/Beschäftigung												| 304|025
+emporter							|(Dinge) hinbringen															| 282|9
+empressé (adj)						|geschäftig/übereifrig/beflissen											| 324|02000263014441341636
+emprunter							|sich was leihen/ausborgen, etwas entnehmen, durch etwas gehen				|  54|02025024235144542447
+empêcher							|verhindern/unterbinden														|  44|00123531335453
+en emploi de temps					|Stundenplan																| 269|9
+enceinte							|Nomen: Anlage/Stadtmauer/Umwallung, adjektiv: schwanger					| 385|99
+enfermer							|einschließen/einsperren, abdrängen(rennsport), schweigen hüllen/diskussion zurückziehen| 389|99
+entailler qc						|einschneiden/einritzen/einkerben											| 360|00004000303004003263
+enterrer							|vergraben/eingraben, beerdigen												| 482|9
+entrain (m)							|Schwung , Begeisterung/Schwung												| 125|000002020435575449
+entrepôt							|Lagerhaus/Lagerstätte, Güterschuppen, Zolllager							| 178|049
+essorer								|auswringen/schleudern/trockenschleudern									|  37|0003362436
+essuyer								|abwischen/abputzen/wischen, abbekommen/abkriegen, trocknen					| 463|273959
+est (m)								|der Osten																	| 457|19
+exiger								|beanspruchen/einfordern, verlangen, fordern								| 180|000250136
+exiguë								|winzig																		| 372|000125759
+fier								|stolz																		| 229|0229
+fournir								|liefern																	| 181|002502545
+fourrer								|hineinstopfen, hineingeraten, (vulg)bumsen									| 217|035776
+futé(e) (adj)						|pfiffig/findig																|  53|00323325023
+gravir								|erklettern/aufsteigen/hinaufklettern										| 102|0034335305619
+griller								|(Zigarette)qualmen, verbrennen/versengen, vernichten, ausdörren, toasten(Küche)|  59|349
+gueule de bois						|Kater/Brummschädel															| 248|9
+guère (adv)							|kaum																		| 454|0250121559
+honnête (adj)						|aufrichtig/anständig/ehrlich												|  51|07
+honte (f)							|Schande/Blamage, Beschämung, Schandfleck									| 271|14669
+importun(e) (adj)					|lästig, ungelegen, aufdringlich											| 103|01111211137
+inquiétant							|beunruhigend																| 142|59
+inquiéter							|sorgen/besorgt sein um														|  16|1003024512406396
+insolite (adj)						|ungewöhnlich/ausgefallen													| 159|54797
+inédit								|ganz neu, noch nie dagewesen, unveröffentlicht								| 116|202353735
+jumeaux								|Zwillinge																	| 416|2799
+l'accueil (m)						|Empfang/Rezeption/Aufnahme													| 453|09
+l'acquis (m)						|die Errungenschaft															| 283|
+l'ail (m)							|Knoblauch																	|  26|0000033550469
+l'aise (f)							|Wohlbefinden/Bequemlichkeit												|  61|01265611159
+l'alentours (m)						|Umgebung/Ortsumgebung														| 244|
+l'angoisse (f)						|Angst/Beklommenheit/Angstzustand											| 230|0234735467
+l'arbitre							|Schiedsrichter/Spielleiter/Unparteiischer									| 261|
+l'arbre (m)							|Baum - auch Welle, Kurbelwelle, Spindel.									| 444|599
+l'asperge (f)						|Spargel																	| 341|69
+l'aube (f)							|die Morgendämmerung														| 190|63669
+l'avenir (m)						|die Zukunft																| 402|99
+l'effroi (m)						|Entsetzen																	| 174|
+l'embrayage (m)						|Kupplung																	|  71|
+l'enfer (m)							|Hölle, Unterwelt															| 209|9
+l'engrenage (m)						|Getriebe/Übersetzung/Verzahnung											| 204|7
+l'enquête (f)						|Befragung/Erhebung/Rundfrage, Untersuchung/Ermittlung, Strafverfolgung		| 340|000300058
+l'envie (f)							|Bedürfnis/Drang, Neid/Missgunst											| 478|19
+l'espérance (f)						|Erwartung/Hoffnung, Erwartungswert/Mittelwert (math), e de vie -> Lebenserwartung| 198|1259
+l'essieu (m)						|Achse, Radsatz																| 498|349
+l'imbécile (m)						|Blödmann/Rindvieh/Dummkopf													| 425|9
+l'obus (m)							|Granate(mil)																| 215|44603667
+l'orteil (m)						|Zehe																		|   1|9
+l'âme (f)							|Geist/Seele/Psyche															|  17|00020355466696
+l'écore (f)							|Rinde(Baum)/Borke, Schale(Früchte)											|  80|0024240123012515
+l'écureuil (m)						|Eichhörnchen																| 342|439
+l'église (f)						|Kirche																		| 412|99
+l'élan (m)							|Elch, Elan/Eigendynamik/Schwung, Anlauf									| 280|49
+l'épave (f)							|(Schiffs-)wrack															| 488|002454599
+l'épieu (m)							|Speer																		| 332|02246
+l'éponge (f)						|Schwamm, frottee															|  91|00459
+la baffe							|Ohrfeige																	| 338|267
+la bagnole							|Karre/Mühle/Kiste															| 433|99
+la bague							|Ring(Finger), Bauchbinde, Schleifring										| 130|03456030676
+la baie								|Meeresbucht, Beere, Chassis/Schrank, Fensteröffnung/Türöffnung				| 429|39
+la boucle							|Ring, Locke, (tech)Schleife-loop, Schließe/Schnalle						| 315|
+la boue								|Dreck/Schmutz, Erde, Schlamm												| 242|
+la bougie							|Kerze, Wachskerze, Zündkerze												| 291|000022245450344
+la boussole							|der Kompass																| 253|59
+la bouée							|Schrimmring/Rettungsring													| 273|040356148
+la bruine							|Nieselregen																| 382|499
+la brune							|die Abenddämmerung															| 170|00336
+la cabane							|Hütte/Bude/Häuschen														| 114|2565
+la caisse							|Kiste/Kasten, Geldkassette, Gehäuse/Karosserie, abfällig für Auto/Karre	| 168|12907
+la cale								|Frachtraum (Schiff)														|  36|
+la cambrure							|Krümmung, Radsturz, Verzug(mech verzogen)									| 115|20012559
+la ceinture							|der Gürtel																	| 367|79
+la cerise							|Kirsche																	| 390|25789
+la chenille							|(bot)Raupe																	| 126|0267
+la cheville							|der Knöchel, (tech)Dübel, (tech)Stift/Bolzen								| 345|6769
+la claque							|Ohrfeige   (aber: le claque: kurz f. Zylinderhut)							| 420|56779
+la clef								|Schlüssel																	| 366|
+la clope							|(ugs)Kippe/Glimmstängel													| 442|01635699
+la clôture							|Umzäunung/Einfriedung/Zaun, Abschluß/Bilanzabschluß/Finanzschluß			| 129|0036
+la corvée							|lästige Arbeit/Schinderei													|  66|002002324660575
+la couette							|Federbett/Steppdecke ,Zopf													| 355|477
+la cour								|Hof/Innenhof/Schulhof, Gerichtshof, Hofstaat								| 278|9
+la cuisinière						|der Herd																	| 353|9
+la cuisse							|Schenkel (anat.)															| 173|01325916
+la culotte							|Damen-Slip/Schlüpfer, Kinderhöschen, kurze Sporthose						|  12|00001024034
+la dépense							|Ausgabe/Geldaufwand/Kosten, Verbrauch										| 185|
+la fermeté							|Standfestigkeit/Entschiedenheit, Festigkeit								|  41|0025004
+la fesse							|Pobacke, Gesäss															| 350|00026324335
+la fessée							|(ugs)Haue/Schag-auf-den-Hintern											| 147|04325464902036
+la ficelle							|Schnur/Bindfaden/Kordel													| 206|02446
+la fiche							|Zettel/Karteikarte, Kartei, Stecker/Steckverbinder							| 295|50259
+la figure							|Gesicht, Gestalt, (math)Figur, Abbildung(sci)								|  19|02469
+la flammèche						|Funke																		|  78|203377
+la fourniture						|Anlieferung, Beschaffung, Zulieferung, Versorgung							| 137|
+la gamelle							|Fressnapf , Futternapf , Blechnapf											| 172|03549
+la gifle							|Backpfeife/Ohrfeige														| 279|0370339
+la gorge							|die Kehle, die Schlucht													| 109|
+la gorgée							|ein Schluck																| 113|79
+la gourde							|Trinkflasche/Feldflasche													|  83|02340375
+la graine							|Samen/Saatgut																| 413|2547669
+la grille							|Tabelle - oder Grill/Rost													| 100|49
+la grève							|Streik/Arbeitskampf/Ausstand												| 219|003345766
+la grêle							|der Hagel																	| 365|003453650136
+la guêpe							|Wespe																		|  58|1232356334374
+la hanche							|Hüfte/Hüftknochen															| 294|669
+la houille							|Kohle/Steinkohle															|  85|005
+la joue								|die Wange/Backe															| 455|9
+la lacune							|Lücke, Wissenslücke, Finanzierungslücke									|  24|0002033
+la lame								|Klinge/Schneide, Gleitkufe, Welle/Woge										|   9|
+la langue							|Zunge, Sprache																| 486|9
+la lessive							|die Wäsche, das Waschmittel/Waschpulver									| 207|9
+la lisière							|Rand/Kante, Waldrand														|  47|6
+la loi								|Gesetz																		| 409|99
+la longuer							|Länge, (schwimmsport) Bahn													| 407|99
+la lueur							|der Lichtschein, Schimmer													| 281|0247
+la lèvre							|Lippe																		| 252|907
+la malaise							|die Not, Unbehagen/Unwohlsein												| 200|22432649
+la manche							|Ärmel   (aber le m.:Griff)													|  11|14364748405
+la maternelle						|Kindergarten, Kindertagesstätte, Vorschule									| 241|2797
+la mouche							|die Fliege																	| 333|
+la nausée							|Übelkeit/Ekel																| 149|40010125133527003226
+la nièce							|die Nichte																	| 396|9
+la nuque							|Nacken/Genick																|  97|3469
+la onde								|Welle/Woge, Flut (o de choc -> Druckwelle)									| 472|61499
+la paroi							|Seitenwand, Bergwand, Innenwand											| 218|0143559
+la patère							|Kleiderhaken																| 231|623677
+la paupière							|Augenlid																	| 424|3699
+la pelouse							|Rasen/Wiese, Liegewiese, Fussballrasen										|   3|0010157
+la peluche							|Plüsch, Fussel, Stofftier													| 431|0042939
+la penderie							|Kleiderschrank, Kleiderkammer, Wäscheschrank								| 169|436
+la plaie							|die Wunde, (fig) Nervensäge												| 469|00024020049445515449
+la plainte							|Klage/Beschwerde															| 220|143
+la plume							|die Feder																	| 497|99
+la poste							|Post/Postamt/Postwesen														| 465|9049
+la poussière						|der Staub																	| 446|299
+la poêle							|Bratpfanne   (aber LE p. -> Ofen)											| 211|21357
+la profondeur						|die Tiefe																	| 437|799
+la punaise							|Heftzwecke/Reißnagel    oder:  Oh punaise! -> Scheibenkleister!			| 152|6577
+la racine							|die Wurzel																	| 186|033555
+la rallonge							|die Verlängerung (phy)														| 246|24556
+la retraite							|Rente/Ruhestand															| 474|99
+la rotule							|Kniescheibe																| 381|5689
+la rééducation						|Reha																		| 495|03699
+la scie								|Säge, (ugs) Nervensäge														| 288|05
+la solitude							|Einsamkeit																	|  81|9
+la souche							|Baumstumpf, Baumstammstück, Abstammung, Kontrollabschnitt/Kontrollblatt	| 297|023404
+la sueur							|Schweiss, Angstschweiß														| 272|14659
+la tache							|Fleck    (aber tâche:   Aufgabe/Arbeit)									|  46|6023469
+la taille							|Körpergröße, Taille														| 133|39
+la tempe							|die Schläfe																|  94|6597
+la teneur							|Inhalt/Gehalt (t en alcool -> Alkoholgehalt)								| 383|000202446769
+la tenue							|Betragen/Benehmen, Anstand/Manieren, Bekleidung							| 358|00244435769
+la toile							|Leinen/Leinentuch, Ölgemälde, Film											| 458|399
+la tombe							|das Grab																	| 388|9
+la tresse							|der Zopf																	| 467|9
+la trouille							|(ugs) Angst/Bammel/Schiss													| 267|002023033049
+la tâche							|Aufgabe/Arbeit/Arbeitspensum    (aber tache: Fleck)						| 404|499
+la vache							|Kuh, (ugs)Bulle/Polizist													|  56|
+la veine							|die Vene																	| 124|639
+la vigueur							|Kraft/Rüstigkeit/Lebenskraft												| 266|
+la vérité							|Wahrheit																	| 439|99
+lambiner							|bummeln/trödeln/herumtrödeln												| 123|001000251244244639
+large								|breit, weit, ausgedehnt													| 264|
+le aulne/aune						|Die Erle																	| 145|
+le banc								|Sitzbank/Schulbank, Untiefe, (geol) Schicht								| 414|037399
+le bas								|Strumpf/langer Strumpf, Unterteil											| 247|
+le bilan							|Abschluß/Fazit/Endergebnis, Bilanz/Bilanzsumme/Schlussrechnung				| 155|
+le blague							|ein Scherz/Ulk, Dummheit, Streich											|  77|034348
+le blé								|der Weizen																	| 363|
+le bol								|die Schale																	| 140|
+le brin								|Halm/Stengel, Fädchen, ein kleines bisschen/ein wenig						| 257|
+le briquet							|Feuerzeug																	| 104|9
+le brouillard						|Nebel																		| 277|
+le buisson							|Strauch/Gebüsch															| 221|12337
+le caleçon							|Boxershorts																| 336|
+le cambrioleur						|Dieb/Einbrecher															| 428|99
+le canapé							|Sofa																		| 387|699
+le canot							|Boot, Beiboot																| 287|333829
+le carrelage						|das Fliesenlegen, der Fliesenbelag											| 259|9
+le cerf								|Hirsch																		| 227|007390227
+le cerveau							|das Hirn																	| 435|9
+le cervidé							|Hirsch																		| 245|279
+le chameau							|Kamel     (schimpfwort: Zimtzicke)											| 399|399
+le charbon							|Kohle (c de bois: Holzkohle)												| 400|1399
+le chaton							|das Kätzchen																| 148|6355669
+le chemisier						|die Bluse																	| 118|079
+le chevreuil						|Reh																		|  73|0223629
+le chêne							|die Eiche																	| 335|9
+le cil								|Wimper																		| 320|55749
+le cochon							|Schwein, Schweinefleisch, Schmierfink(fig),   c sauvage -> Wildschwein		| 334|469
+le coffre							|Truhe/Kiste/Schrein, Kofferraum, Schließfach/Safe/Tresor, Brustkasten		| 298|579
+le colis							|Paket/Frachtstück/Gepäckstück												|  43|005004232567003
+le con								|Arschloch/Blödmann/Fotze													|   5|15649
+le congé							|Urlaub/Ferien, (tech)auskehlung/Hohlkehle									| 192|63477
+le conte							|Märchen/Erzählung/Geschichte												| 122|553516800306
+le coq								|Hahn/Gockel, Schiffskoch/Smutje											| 163|2
+le coquin							|Spitzbube/Fechdachs/Schelm													| 194|
+le cortège							|Festzug/Gefolge/Prozession													|  98|00030242024335465677
+le cou								|Hals/Genick																| 240|02702144569
+le coude							|der Ellenbogen, Bogen(arch)												| 487|13690229
+le coupable							|Schuldige/Täter.															| 436|99
+le crâne							|Schädel/Totenkopf, Hirnschale												| 179|69
+le cul								|Arsch (plein le c)->Nase voll haben, Blödmann, Flaschenboden/Gefäßboden, Brummi(LKW)| 327|130143243502638
+le câlin							|Zärtlichkeit , liebevoll(adj)												|  30|9
+le deuil							|Trauer, Trauerfall															| 156|033012334679
+le dortoir							|Schlafsaal																	| 313|
+le dossier							|Rückenlehne/Rückenstütze, Schnellhefter/Ordner, Aktenbündel				|   4|29
+le décollage						|Start (Flugzeug)															| 392|699
+le dégât							|der Schaden																| 370|0378
+le foie								|die Leber																	|  40|0356
+le fossé							|der Graben																	| 101|00233203020434
+le fourgon							|der Kastenwagen, Gepackwagen, Postwagen									| 184|79
+le fourré							|das Gestrüpp																|  75|58
+le foutre							|(vulg) die Wichse															| 466|0304489
+le foyer							|Herd/Feuerstätte, Heimstätte, Hausstand, Wohnheim							| 362|4369
+le frelon							|die Hornisse																|  45|146694
+le fret								|Fracht, Frachtkosten, Schiffladung, Luftfracht								| 262|
+le genou							|das Knie																	| 410|99
+le givre							|der Frost																	| 202|69
+le hérisson							|Igel, (fig): Kratzbürste/störrischer Kerl									| 237|02445760257
+le hêtre							|Buche (Baum)																| 284|151379
+le jeudi							|Donnerstag																	| 301|86
+le klaxon							|die Hupe																	| 415|99
+le lange							|Windel/Wickel																| 438|033560469
+le lapin							|Karnickel, Kaninchenfleisch												| 491|5399
+le large							|die Breite, offene See														| 171|
+le linge							|die Wäsche, Weißzeug/Weißwäsche											| 346|1375149
+le lièvre							|Hase/Feldhase, pacemaker(sport)											| 359|
+le loisir							|Freizeit, tout à ****: mit Muße/Ruhe										| 339|
+le manche							|Griff/Stiel/Heft   (aber la m.:Ärmel)										| 354|236579
+le matou							|der Kater(Tier)															| 293|203058
+le mec								|Kerl, Typ																	| 208|9
+le menton							|Kinn																		| 422|247699
+le miel								|Honig																		| 483|699
+le moineau							|Spatz, Sperling															|  21|0
+le mollet							|die Wade																	| 357|3037749
+le montant							|Betrag/Summe/Betrag/Geldbetrag, Pfosten/Ständer/Stiel						|  82|002047
+le neveu							|der Neffe																	| 120|89
+le noyau							|Kern, Atomkern, Stammbelegschaft, Nukleus									| 119|0225607
+le noyer							|Nussbaum, Nussbaumholz														| 117|02077
+le panier							|Korb, Einkaufskorb, Nähkorb, Heissluftballon: Korb							|  52|003035466
+le papillon							|Schmetterling/Falter, Haftnotitz, Handzettel								| 107|6
+le pare-brise						|Windschutzscheibe/Heckscheibe												| 395|9
+le patin							|Schlittschuh																| 343|0269
+le peigne							|der Kamm																	| 440|51267279
+le peignoir							|Bademantel																	| 127|01131470026
+le pet								|(ugs) Pups																	|  20|0436
+le pignon							|(tech) Zahnrad/Ritzel, (bau) Giebel, (bot) Pinie							| 308|
+le pis								|der Euter																	|   7|035
+le piège							|die Falle, (techn)Drossel													| 419|023554679
+le poignard							|der Dolch																	|  62|02647745
+le poignet							|Handgelenk																	| 238|0234473907
+le poste							|Stelle/Posten/Wachhaus/Polizeirevier										| 144|01486
+le poste d'essence					|Tankstelle																	| 418|99
+le pote								|Freund/Kumpel/Kamerad														|  14|7459
+le pouce							|Daumen, großer Zeh															| 432|299
+le poumon							|die Lunge																	|  87|
+le poussin							|Küken, Kinderklasse(sport)													| 452|03034679
+le poêle							|Ofen/Heizofen  (aber LA p. -> Pfanne)										|  25|0033440306
+le précipice						|Abgrund																	| 403|9
+le quotidien						|der Alltag, die Tageszeitung												| 494|0144499
+le radeau							|das Floß																	|  33|385
+le rayonnage						|Regal																		|  92|144
+le remède							|Hausmittel																	|   6|
+le renard							|Fuchs, Fuchspelz															| 236|
+le renseignement					|Auskunft/Belehrung, Belehrung/Hinweis, Auskunftei/Auskunftstelle			|  28|146961
+le requin							|Hai																		| 175|
+le rivage							|Küstenstrich/Ufer															| 321|04357
+le ronron							|Eintönigkeit, das Schnurren												| 276|024579
+le réfectoire						|Speisesaal																	|  34|9
+le régal							|Leckerbissen																|  32|002
+le réseau							|Netz (wie Datennetz, Stromnetz, auch Service-Netz), NICHT Gewebe-netz wie Fischernetz.| 312|
+le rôti								|der Braten																	| 322|
+le sapin							|Tanne/Tannenbaum, Tannenholz												| 337|
+le seau								|Eimer/Kübel																| 213|639
+le seigle							|der Roggen																	|  65|477916
+le sein								|Brust (Busen)																| 356|459
+le singe							|der Affe																	| 235|
+le soin								|Sorgfalt/Bemühung, Pflege, Sorgfalt										| 398|39
+le son								|Ton/Klang																	| 479|99
+le souci							|Sorge/Unruhe/Besorgnis														| 205|048
+le souffle							|Atem/Anhauch, Atemzug, Hauch, Schnaufer,  Eierauflauf,  (techn)Rauschen/Zischen| 274|02434769
+le soupir							|Seufzer																	| 286|
+le suçon							|Knutschfleck																| 167|0436
+le tableau							|Bild/Gemälde, Tafel/Wandtafel, Tablett, Tabelle/Liste, Schalttafel			|  76|
+le tailleur							|Damenkostüm/Kostüm/Jackenkleid												| 161|024260334664556
+le talon							|Ferse, Absatz(Schuh), Huf(Pferd)											|  70|1267659045
+le tapage							|Lärm/Spektakel																| 461|42499
+le tas								|Haufen/Stapel/Menge/Stoß													| 401|04545699
+le taureau							|Stier																		|  38|459
+le taux								|Rate (x/sec), Quote/Prozentsatz, Zinsfuß, Gebührensatz						| 375|001466629
+le tendon							|die Sehne (anat.)															| 275|29
+le treillis							|Geflecht, Gitterwerk, Fachwerk, Gitter										|  95|
+le tronc							|Stamm, Baumstamm, Rumpf													| 477|716679
+le tuyau							|Rohr/Leitung/Röhre, Schlauch												| 369|00022547
+le vendredi							|der Freitag																|  57|46016
+le ventre							|der Bauch, Speckbauch														| 128|0429
+le vestiaire						|Unkleidekabine/Umkleideraum/Spielerkabine									| 151|79
+le virement							|Giro, Überweisung (bank)													|  31|29
+le voyant							|Anzeige, Schauglas, Signalfeuer/Kontrollleuchte							| 441|626599
+le/la convive						|der Gast																	| 108|1343656676
+le/la stagiaire						|Praktikant																	| 489|379
+les boyaux (m)						|Gedärme																	|  63|01233557
+les friandises						|Süssigkeiten/Leckereien, Leckerbissen										| 196|003
+les tripes (f)						|die Eingeweide																| 456|699
+lisser								|glätten/ebnen/glatt streichen												| 307|124549
+lié (adj)							|nahe/gebunden/bedingt														| 189|
+lorsque								|wenn/als																	| 317|1021201229
+lune de miel						|Flitterwochen																| 112|79
+lâcher								|fallen lassen/loslassen/nachgeben, im Stich lassen							| 197|576587
+lécher								|lecken/ablecken															| 136|00239
+malgré								|trotz/ungeachtet ./nichtsdestrotrotz										| 484|30369
+malin (adj)							|schlau/clever, boshaft														|  68|00023433533144222466
+menacer								|drohen																		| 228|03369
+mendier								|betteln																	| 158|00012223312536469
+mener								|leiten/anführen/durchführen												| 417|0009
+mignon (adj)						|reizend/zierlich/schön/niedlich											| 111|036925
+mince								|klein/nichtig/dünn/schmal/schmächtig										| 451|36959
+moche (adj)							|hässlich																	| 496|9
+mou/molle							|weich																		| 386|9
+nain (adj)							|zwerg.../zwergenhaft/zwergwüchsig											|  13|0127
+nase (adj)							|hinüber/im Eimer/fertig/kaputt/k.o., bescheuert/durchgeknallt   (auch: naze)| 110|60354545905
+noyer (v)							|ertrinken, überschwemmen													|  74|02334373
+ordonner							|befehlen/anordnen															|  86|
+osé(adj)							|gewagt/kühn/wagemutig/dreist												| 331|567
+ouest (m)							|der Westen																	| 300|19
+ours (m)							|Bär																		| 150|2769
+pantalon							|Hose																		| 135|9
+parier								|wetten, Geschäft reden, was besprechen										| 348|
+partenaire							|Partner(in)																| 329|9
+picoler								|(ugs)bechern/picheln/trinken/zechen										| 379|9
+piller								|ausrauben																	| 183|27
+pincer								|klneifen/klemmen															|  84|39
+pire (adj)							|schlimmer/übler															| 480|0345530399
+pis (adv)							|schlimmer/übler															| 191|101477
+priver								|entbehren/verzichten/aberkennen/vorenthalten								|  93|0224602603360035
+provenir de qc						|aus etw entstehen, aus etw hervorgehen, einer Sache entspringen			| 260|
+précéder							|vorangehen/vorausfahren													| 201|
+prêter								|ausleihen/ausborgen/leihen													| 471|59
+péter								|explodieren/kaputtmachen/kaputtreissen, furzen/pupen						| 364|002336455
+raboter								|hobeln/abhobeln/schälen													| 234|45797
+ravir qn.							|jmdn. begeistern/entzücken/bezaubern/hinreißen								|  90|010530365124533527
+ravissant (adj)						|reitzend/entzückend/hinreißend												| 131|007035297
+rayé (adj)							|gestreift, verschrammt														| 475|259
+reconnaître							|erkennen/wieder erkennen, auskennen (se r.), wiedererkennen (r. qn)		| 176|2696
+recouvrir							|abdecken/zudecken															| 222|
+reculer								|rückwärts gehen, zurücksetzen/rückwätsfahren, aufschieben/hinauszögern		| 447|99
+remarquer							|bemerken																	|  22|2239
+renoncer							|anlassen/absehen/zurücktreten/verzichten									| 361|110130458
+replacer							|zurückbringen/stellen, eine neue Stelle vermitteln							|  23|054
+reprocher							|vorwerfen/anlasten															| 306|
+repérer								|auffinden/zurechtfinden, orten												| 462|4021330313959
+revêtir								|anziehen, annehmen, (bau) auslegen/bedecken/auskleiden/überziehen/umhüllen	| 139|235357
+rigoler								|lachen, flachsen, Spaesschenmachen.										| 216|39
+rimer								|reimen/dichten/Verse machen												| 146|043729
+ronfler								|schnarchen																	| 296|9
+répandre							|verbreiten/ausbreiten/herumsprechen, verschütten/verstreuen				| 368|130020000347547
+rôder								|herumstreifen/streunen/umschleichen										| 162|00014320432346458046
+s'ennuyer							|langweilen																	| 210|015039
+sacrément							|verdammt																	| 406|7399
+se planquer, p qc.					|in Sicherheit bringen														| 445|02260369
+se plier							|sich (etw) beugen/fügen/anpassen, einknicken								|   8|065364570
+selon								|gemäß/getreu/laut															| 427|010305043634379
+sentir								|fühlen/empfinden/befinden, richen, duften									| 250|9
+soit								|also, nämlich																| 344|01043222513639
+souhaiter							|wünschen																	| 377|
+soulager							|entlasten/abnehmen/erleichtern/befreien									| 394|0125339
+soupçonner							|verdächtigen, vermuten/argwohnen											| 290|
+soutenir							|behaupten/befürworten/zu jmd. halten/zu jdm. stehen						|  64|1386
+taper								|tippen/stossen/hauen, anpumpen/borgen, hände klatschen						| 378|2112389
+tapoter								|klopfen																	| 391|819
+taquiner qn							|jmdn. hänseln/necken														| 351|001332416
+tenter								|versuchen, wagen															|  60|3035536766
+titubant (adj)						|schwankend/taumelnd														| 165|79
+tiède								|lauwarm																	| 349|
+torride (adj)						|brennend heiß/tropisch														| 397|00000146607039
+tour d'horizon						|Überblick																	| 423|9
+trafiquer							|aushecken, herumbasteln, frisieren(motor), pantschen, Gewinn draus schlagen| 371|
+très								|sehr / wesentlich															| 492|9
+tôt									|früh/zeitig/bald															| 468|99
+un attelage							|Anhängerkupplung, Gespann (Fz mit Hänger)									| 164|06
+un avoir							|Guthaben/Vermögen, Gutschein, Bon, Gutschrift								| 405|23699
+un baiser							|Kuss																		| 255|
+un descendant						|Nachfahre/Nachkomme/Spross													| 305|9
+un dédale							|Labyrinth																	|  49|001030132334565
+un entretien						|Gespräch/Unterhaltung, Reinigung/Wartung/Instandhaltung					| 160|1135
+un nourrisson						|Säugling																	| 254|0027
+un raccourci						|eine Abkürzung (Weg)														|  79|06
+un écart							|Abstand, Unterschied, Sprung, Diskrepanz									| 384|00203000154013299
+un échec							|Fehlschlag/Versagen (plural échecs: Schachspiel)							| 490|9
+un êtang							|Teich/Weiher																| 182|0234468
+un(e) gamin(e)						|kleiner Junge/Mädchen														| 376|0368
+une araignée						|eine Spinne																| 411|9
+une armoire							|Kleiderschrank, Wandschrank/Schrank										|  10|9
+une astuce							|Kniff/Trick/Finesse														| 326|003546679
+une chaussette						|Socken/Strumpf																| 481|99
+une connerie						|Dummheit																	| 214|0569
+une échelle							|Leiter, Maßstab/Skala														| 285|
+usant(e) (adj)						|anstrengend																|  88|4136258
+verser								|eingiessen/ausschenken/auszahlen/schuetten									| 318|1259
+vierge (adj)						|jungfräulich (anat. und Übertrag.)											| 434|0489
+viser								|anstreben/hinzielen, zielen/anlegen										|  27|034
+viticole (adj)						|Weinbau... (z.B. domaine v -> Weingut)										| 212|0359
+vêtu (adj)							|bekleidet																	| 233|9
+ça cloche, qc cloche				|etwas stimmt nicht															| 352|69
+ébloui (adj)						|beeindruckt/geblendet/hingerissen											| 187|02318
+économiser							|sparen/einsparen/dafür sparen												| 493|499
+élire qn							|jdm auserwählen/wählen/küren												| 134|0003049
+éloigné (adj)						|entfernt/abgelegen/entlegen												| 299|0024767
+éméché								|beschwipst/angeheitert														|  18|3458
+épeler								|buchstabieren																| 310|
+éprouvé								|bewährt/verlässlich/treu/erprobt											| 449|04026799
+épuisé								|erschöpft/totmüde/ausgebrannt												| 256|70479
+étouffer							|unterdrücken/totschweigen, ersticken/abwürgen								| 328|35369
+étroit								|schmal/eng/knapp															| 188|
+éviter								|vermeiden/verhüten/ausweichen												| 309|13747
+ôter								|abziehen/weglegen/ausziehen/abnehmen										| 265|

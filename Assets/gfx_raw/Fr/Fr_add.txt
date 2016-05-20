@@ -1,0 +1,29 @@
+# python E:\Dahlhoff\p\scramble_letters.py -d 5 E:\Dahlhoff\p\scram\Frz.txt > C:\temp\muell.txt
+renifler | schniefen/schnüffeln, Nase hochziehen
+lié (adj) | gebunden/nahe/bedingt, lié à qc.-> an etwas gebunden, durch etw. bedingt.
+la crue | das Ansteigen, Hochwasser
+le chômage | Arbeitslostigkeit
+méchant (adj) | böse/bösartig/mies (Hund: bissig)
+le placard | Schrank/Wandschrank
+le salarié | Angestellter/Beschäftigter/Lohnarbeiter
+le seigneur | Hausherr/Grundherr, Gott/Herrgott
+le discours | Rede/Ansprache/Festansprache, Abhandlung
+timide (adj) | scheu/schüchtern/verschämt
+épouventable (adj) | entsetzlich/grauenvoll/schrecklich
+le sondage | Umfrage/Meinunsumfrage, Probebohrung, Stichprogenerhebung
+licencier qn. | jmdn entlassen/kündigen/verabschieden
+plier | falten/knicken/zusammenlegen, beugen/sich fügen/nachgeben
+le paillasson | Fußabtreter/Fußmatte/Türvorleger
+aisé (adj) | wohlhabend/vermögend
+le prunier | Pflaumenbaum
+figer | erstarren/fest werden
+marrante (adj) | drollig/komisch/lustig
+l'agneau (m) | Lamm/Schäfchen
+le maintien | Erhaltung/Beibehaltung/Fortbestand
+évoquer | erwähnen/anklingen lassen/in Erinnerung rufen
+déguisé (adj) | verkleidet
+le clivage | Diskrepanz/Kluft/Spaltung
+le paquebot | Passierschiff/Kreuzfahrtschiff
+remorquer | schleppen/abschleppen
+sot (adj) | dumm
+le sort | Schicksal

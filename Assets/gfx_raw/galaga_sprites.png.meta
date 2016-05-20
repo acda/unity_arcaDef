@@ -1,0 +1,1652 @@
+fileFormatVersion: 2
+guid: 8d26aff709a892d4da959138c8e84d0b
+timeCreated: 1457194852
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: galaga_sprites_0
+    21300002: galaga_sprites_1
+    21300004: galaga_sprites_2
+    21300006: galaga_sprites_3
+    21300008: galaga_sprites_4
+    21300010: galaga_sprites_5
+    21300012: galaga_sprites_ship_0
+    21300014: galaga_sprites_7
+    21300016: galaga_sprites_8
+    21300018: galaga_sprites_9
+    21300020: galaga_sprites_10
+    21300022: galaga_sprites_11
+    21300024: galaga_sprites_12
+    21300026: galaga_sprites_13
+    21300028: galaga_sprites_14
+    21300030: galaga_sprites_15
+    21300032: galaga_sprites_16
+    21300034: galaga_sprites_17
+    21300036: galaga_sprites_18
+    21300038: galaga_sprites_19
+    21300040: galaga_sprites_20
+    21300042: galaga_sprites_21
+    21300044: galaga_sprites_22
+    21300046: galaga_sprites_ship_1
+    21300048: galaga_sprites_24
+    21300050: galaga_sprites_25
+    21300052: galaga_sprites_26
+    21300054: galaga_sprites_27
+    21300056: galaga_sprites_28
+    21300058: galaga_sprites_29
+    21300060: galaga_sprites_30
+    21300062: galaga_sprites_31
+    21300064: galaga_sprites_32
+    21300066: galaga_sprites_33
+    21300068: galaga_sprites_34
+    21300070: galaga_sprites_35
+    21300072: galaga_sprites_36
+    21300074: galaga_sprites_37
+    21300076: galaga_sprites_38
+    21300078: galaga_sprites_39
+    21300080: galaga_sprites_ship_2
+    21300082: galaga_sprites_41
+    21300084: galaga_sprites_42
+    21300086: galaga_sprites_43
+    21300088: galaga_sprites_44
+    21300090: galaga_sprites_45
+    21300092: galaga_sprites_46
+    21300094: galaga_sprites_47
+    21300096: galaga_sprites_48
+    21300098: galaga_sprites_49
+    21300100: galaga_sprites_50
+    21300102: galaga_sprites_51
+    21300104: galaga_sprites_52
+    21300106: galaga_sprites_53
+    21300108: galaga_sprites_54
+    21300110: galaga_sprites_55
+    21300112: galaga_sprites_56
+    21300114: galaga_sprites_ship_3
+    21300116: galaga_sprites_58
+    21300118: galaga_sprites_59
+    21300120: galaga_sprites_60
+    21300122: galaga_sprites_61
+    21300124: galaga_sprites_62
+    21300126: galaga_sprites_63
+    21300128: galaga_sprites_64
+    21300130: galaga_sprites_65
+    21300132: galaga_sprites_66
+    21300134: galaga_sprites_67
+    21300136: galaga_sprites_68
+    21300138: galaga_sprites_69
+    21300140: galaga_sprites_70
+    21300142: galaga_sprites_71
+    21300144: galaga_sprites_72
+    21300146: galaga_sprites_73
+    21300148: galaga_sprites_ship_4
+    21300150: galaga_sprites_75
+    21300152: galaga_sprites_76
+    21300154: galaga_sprites_77
+    21300156: galaga_sprites_78
+    21300158: galaga_sprites_79
+    21300160: galaga_sprites_80
+    21300162: galaga_sprites_81
+    21300164: galaga_sprites_82
+    21300166: galaga_sprites_83
+    21300168: galaga_sprites_84
+    21300170: galaga_sprites_85
+    21300172: galaga_sprites_86
+    21300174: galaga_sprites_87
+    21300176: galaga_sprites_88
+    21300178: galaga_sprites_89
+    21300180: galaga_sprites_90
+    21300182: galaga_sprites_ship_5
+    21300184: galaga_sprites_92
+    21300186: galaga_sprites_93
+    21300188: galaga_sprites_94
+    21300190: galaga_sprites_95
+    21300192: galaga_sprites_96
+    21300194: galaga_sprites_97
+    21300196: galaga_sprites_98
+    21300198: galaga_sprites_99
+    21300200: galaga_sprites_100
+    21300202: galaga_sprites_101
+    21300204: galaga_sprites_102
+    21300206: galaga_sprites_103
+    21300208: galaga_sprites_104
+    21300210: galaga_sprites_105
+    21300212: galaga_sprites_106
+    21300214: galaga_sprites_107
+    21300216: galaga_sprites_ship_6
+    21300218: galaga_sprites_109
+    21300220: galaga_sprites_110
+    21300222: galaga_sprites_111
+    21300224: galaga_sprites_112
+    21300226: galaga_sprites_113
+    21300228: galaga_sprites_114
+    21300230: galaga_sprites_115
+    21300232: galaga_sprites_116
+    21300234: galaga_sprites_117
+    21300236: galaga_sprites_118
+    21300238: galaga_sprites_119
+    21300240: galaga_sprites_120
+    21300242: galaga_sprites_121
+    21300244: galaga_sprites_122
+    21300246: galaga_sprites_123
+    21300248: galaga_sprites_124
+    21300250: galaga_sprites_ship_7
+    21300252: galaga_sprites_126
+    21300254: galaga_sprites_127
+    21300256: galaga_sprites_128
+    21300258: galaga_sprites_129
+    21300260: galaga_sprites_130
+    21300262: galaga_sprites_131
+    21300264: galaga_sprites_132
+    21300266: galaga_sprites_133
+    21300268: galaga_sprites_134
+    21300270: galaga_sprites_135
+    21300272: galaga_sprites_136
+    21300274: galaga_sprites_137
+    21300276: galaga_sprites_138
+    21300278: galaga_sprites_139
+    21300280: galaga_sprites_140
+    21300282: galaga_sprites_141
+    21300284: galaga_sprites_ship_8
+    21300286: galaga_sprites_143
+    21300288: galaga_sprites_144
+    21300290: galaga_sprites_145
+    21300292: galaga_sprites_146
+    21300294: galaga_sprites_147
+    21300296: galaga_sprites_148
+    21300298: galaga_sprites_149
+    21300300: galaga_sprites_150
+    21300302: galaga_sprites_151
+    21300304: galaga_sprites_152
+    21300306: galaga_sprites_153
+    21300308: galaga_sprites_154
+    21300310: galaga_sprites_155
+    21300312: galaga_sprites_156
+    21300314: galaga_sprites_157
+    21300316: galaga_sprites_158
+    21300318: galaga_sprites_ship_9
+    21300320: galaga_sprites_160
+    21300322: galaga_sprites_161
+    21300324: galaga_sprites_162
+    21300326: galaga_sprites_163
+    21300328: galaga_sprites_164
+    21300330: galaga_sprites_165
+    21300332: galaga_sprites_166
+    21300334: galaga_sprites_167
+    21300336: galaga_sprites_168
+    21300338: galaga_sprites_169
+    21300340: galaga_sprites_170
+    21300342: galaga_sprites_171
+    21300344: galaga_sprites_172
+    21300346: galaga_sprites_173
+    21300348: galaga_sprites_174
+    21300350: galaga_sprites_175
+    21300352: galaga_sprites_176
+    21300354: galaga_sprites_177
+    21300356: galaga_sprites_178
+    21300358: galaga_sprites_179
+    21300360: galaga_sprites_180
+    21300362: galaga_sprites_181
+    21300364: galaga_sprites_182
+    21300366: galaga_sprites_183
+    21300368: galaga_sprites_184
+    21300370: galaga_sprites_185
+    21300372: galaga_sprites_186
+    21300374: galaga_sprites_187
+    21300376: galaga_sprites_188
+    21300378: galaga_sprites_189
+    21300380: galaga_sprites_190
+    21300382: galaga_sprites_191
+    21300384: galaga_sprites_192
+    21300386: galaga_sprites_ship_10
+    21300388: galaga_sprites_194
+    21300390: galaga_sprites_195
+    21300392: galaga_sprites_196
+    21300394: galaga_sprites_197
+    21300396: galaga_sprites_198
+    21300398: galaga_sprites_199
+    21300400: galaga_sprites_200
+    21300402: galaga_sprites_201
+    21300404: galaga_sprites_202
+    21300406: galaga_sprites_203
+    21300408: galaga_sprites_204
+    21300410: galaga_sprites_205
+    21300412: galaga_sprites_206
+    21300414: galaga_sprites_207
+    21300416: galaga_sprites_208
+    21300418: galaga_sprites_209
+    21300420: galaga_sprites_210
+    21300422: galaga_sprites_211
+    21300424: galaga_sprites_212
+    21300426: galaga_sprites_213
+    21300428: galaga_sprites_214
+    21300430: galaga_sprites_215
+    21300432: galaga_sprites_216
+    21300434: galaga_sprites_217
+    21300436: galaga_sprites_218
+    21300438: galaga_sprites_219
+    21300440: galaga_sprites_220
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: galaga_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 307
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 307
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 307
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 307
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 307
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 320
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 321
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 296
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 299
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 235
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 235
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 235
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 235
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 235
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 235
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 235
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 235
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_69
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_85
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_86
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_87
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_89
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_92
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 163
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_103
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 163
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_104
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 163
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_105
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 163
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_106
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 163
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_107
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 163
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 163
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_110
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 169
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_111
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 163
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_112
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 163
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_113
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -14}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 12}
+        - {x: 15, y: 13}
+        - {x: 5, y: 15}
+        - {x: -8, y: 15}
+        - {x: -14, y: 10}
+    - name: galaga_sprites_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -7}
+        - {x: -11, y: -8}
+        - {x: -18, y: -11}
+        - {x: -18, y: -16}
+        - {x: -17, y: -18}
+        - {x: -7, y: -18}
+        - {x: -1, y: -14}
+        - {x: -1, y: -9}
+      - - {x: 11, y: -10}
+        - {x: 8, y: -6}
+        - {x: 5, y: -6}
+        - {x: -2, y: -14}
+        - {x: -2, y: -16}
+        - {x: 1, y: -17}
+        - {x: 9, y: -18}
+        - {x: 10, y: -18}
+        - {x: 15, y: -14}
+        - {x: 15, y: -13}
+        - {x: 12, y: -10}
+      - - {x: -18, y: -9}
+        - {x: -17, y: -10}
+        - {x: -14, y: -9}
+        - {x: -14, y: -6}
+        - {x: -17, y: -5}
+        - {x: -18, y: -6}
+      - - {x: 5, y: 10}
+        - {x: 3, y: 8}
+        - {x: 2, y: 6}
+        - {x: 2, y: 0}
+        - {x: 10, y: -9}
+        - {x: 16, y: -9}
+        - {x: 16, y: 4}
+        - {x: 8, y: 10}
+      - - {x: -18, y: 2}
+        - {x: -18, y: -2}
+        - {x: -13, y: -8}
+        - {x: -6, y: -8}
+        - {x: -5, y: 1}
+        - {x: -5, y: 5}
+        - {x: -11, y: 5}
+      - - {x: -15, y: 4}
+        - {x: -12, y: 5}
+        - {x: -12, y: 8}
+        - {x: -15, y: 9}
+        - {x: -17, y: 7}
+      - - {x: -5, y: 4}
+        - {x: -2, y: 5}
+        - {x: -2, y: 8}
+        - {x: -5, y: 9}
+        - {x: -7, y: 7}
+      - - {x: 8, y: 12}
+        - {x: 8, y: 11}
+        - {x: 13, y: 6}
+        - {x: 16, y: 6}
+        - {x: 16, y: 16}
+        - {x: 12, y: 16}
+      - - {x: -17, y: 17}
+        - {x: -17, y: 11}
+        - {x: -13, y: 7}
+        - {x: 2, y: 7}
+        - {x: 3, y: 10}
+        - {x: 2, y: 17}
+      - - {x: 4, y: 11}
+        - {x: 7, y: 12}
+        - {x: 7, y: 15}
+        - {x: 4, y: 16}
+        - {x: 2, y: 14}
+    - name: galaga_sprites_116
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 177
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_117
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 175
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_119
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 139
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_120
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 139
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_121
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 139
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_122
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 139
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_123
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 139
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_124
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 139
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 139
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_133
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 153
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_134
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 155
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_136
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_137
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_138
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_139
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_140
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_141
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_153
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_154
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_155
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_156
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_157
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_158
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_170
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_171
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_172
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_173
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_174
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_175
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_176
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_179
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 77
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_180
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_181
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_182
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_183
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_184
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_185
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_187
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_188
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_189
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_190
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_191
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_192
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: galaga_sprites_ship_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
