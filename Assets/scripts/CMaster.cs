@@ -23,9 +23,8 @@ public class CMaster : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-
 		m_currentWave = 0;
-		StartCoroutine(startWave_runner(m_currentWave));
+		StartCoroutine(wave_runner());
 	}
 
 	// Update is called once per frame
@@ -39,31 +38,48 @@ public class CMaster : MonoBehaviour
 		m_players[0].mouseClick(x,y);
 	}
 
-	IEnumerator startWave_runner(int wave)
+	IEnumerator wave_runner()
 	{
 		Vector3 p;
+		GameObject ship;
+		int shipOut;
 		UnityEngine.UI.Text tx = m_textfield_announce.GetComponent<UnityEngine.UI.Text>();
 
-		yield return new WaitForSeconds(0.5f);
-		tx.text = "Wave "+(wave+1).ToString();
-		m_textfield_announce.SetActive(true);
-		yield return new WaitForSeconds(1.0f);
-		m_textfield_announce.SetActive(false);
-		yield return new WaitForSeconds(0.5f);
+		ship = null; shipOut = 1000;
 
-		p = new Vector3( 0.0f , -0.9f , 0.0f );
-		Instantiate( def_playerShip , p , new Quaternion(0.0f,0.0f,0.707107f,0.707107f) );
+		while (m_currentWave<def_stage_waves.Length)
+		{
+			yield return new WaitForSeconds(0.5f);
+			tx.text = "Wave "+(m_currentWave+1).ToString();
+			m_textfield_announce.SetActive(true);
+			yield return new WaitForSeconds(1.0f);
+			m_textfield_announce.SetActive(false);
+			yield return new WaitForSeconds(1.0f);
 
-		yield return new WaitForSeconds(0.75f);
+			p = new Vector3( -0.5f , -0.9f , 0.0f );
+			Instantiate( def_cannon_types[1] , p , new Quaternion(0.0f,0.0f,0.707107f,0.707107f) );
+			yield return new WaitForSeconds(0.25f);
+			p = new Vector3( 0.5f , -0.9f , 0.0f );
+			Instantiate( def_cannon_types[0] , p , new Quaternion(0.0f,0.0f,0.707107f,0.707107f) );
 
-		p = new Vector3( -0.5f , -0.9f , 0.0f );
-		Instantiate( def_cannon_types[1] , p , new Quaternion(0.0f,0.0f,0.707107f,0.707107f) );
-		yield return new WaitForSeconds(0.25f);
-		p = new Vector3( 0.5f , -0.9f , 0.0f );
-		Instantiate( def_cannon_types[0] , p , new Quaternion(0.0f,0.0f,0.707107f,0.707107f) );
-
-
-		Instantiate( def_stage_waves[m_currentWave] , new Vector3() , new Quaternion() );
+			GameObject wav;
+			wav = (GameObject)Instantiate( def_stage_waves[m_currentWave] , new Vector3() , new Quaternion() );
+			while (wav != null)
+			{
+				yield return new WaitForSeconds(0.25f);
+				if (ship == null)
+				{
+					if(shipOut++>7)
+					{
+						p = new Vector3(0.0f, -0.9f, 0.0f);
+						ship = (GameObject)Instantiate(def_playerShip, p, new Quaternion(0.0f, 0.0f, 0.707107f, 0.707107f));
+					}
+				}else{
+					shipOut = 0;
+				}
+			}
+			m_currentWave++;
+		}
 	}
 
 	// defs set in inspector

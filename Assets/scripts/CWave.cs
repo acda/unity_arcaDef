@@ -11,17 +11,15 @@ public class CWave : MonoBehaviour
 
 	protected virtual void Awake()
 	{
+		m_done = false;
 	}
 
-	protected virtual void onWaveFinished()
+	protected virtual void Update()
 	{
-		Debug.Log("Wave finished  "+GetInstanceID().ToString());
-		Destroy(this);
-	}
-
-	internal virtual void shipKilledCallback(GameObject ship)
-	{
-//		Debug.Log("   ship killed  "+ship.GetInstanceID().ToString());
+		if (m_done)
+		{
+			Destroy(gameObject);
+		}
 	}
 
 	public virtual float spawn_progress(out int totalEnemies,out int spawnedEnemies)
@@ -30,5 +28,6 @@ public class CWave : MonoBehaviour
 		return 1.0f;
 	}
 
+	internal bool m_done;
 }
 

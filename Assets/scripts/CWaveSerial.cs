@@ -112,9 +112,7 @@ public class CWaveSerial : CWaveflight
 				float direc;
 				if(at.phase>=m_pathdata.Count)
 				{
-					at.state = AttachPoint.PointState.left;
-					if( i+1 >= numberEnemies )
-						onWaveFinished();
+					at.pointState = AttachPoint.PointState.left;
 					break;
 				}
 				SegData d = m_pathdata[at.phase];
@@ -127,7 +125,7 @@ public class CWaveSerial : CWaveflight
 				//	Debug.Log(" xy = " + xy.ToString());
 				at.loc = xy;
 				at.rot = direc;
-				at.state = AttachPoint.PointState.inField;
+				at.pointState = AttachPoint.PointState.inField;
 				break;
 			}
 		}

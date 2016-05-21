@@ -21,6 +21,6 @@ public class CBullet : MonoBehaviour
 
 	public float def_speed=1.0f;
 	public float def_damage=1.0f;
-    public uint hitmask = 65536;
+	public uint hitmask = 65536;
 }
 

@@ -19,7 +19,7 @@ public class CDefLaser : CBaseDefTurret
 		base.Start();
 	}
 
-	protected virtual void Update ()
+	protected override void Update ()
 	{
 		m_shot_cooldown -= Time.deltaTime;
 		if(m_shot_cooldown<=0.0f)

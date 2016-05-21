@@ -10,26 +10,12 @@ public class CBaseEnemy : MonoBehaviour
 
 	void Awake()
 	{
-		UnityEngine.Assertions.Assert.IsTrue( this.CompareTag("enemy") );
-	}
-
-	void OnDestroy()
-	{
-		if (!System.Object.ReferenceEquals(m_formation, null))
-		{
-			// unregister from formation ..... clean? count? callback?
-			CHitable hit = GetComponent<CHitable>();
-			if( !System.Object.ReferenceEquals(hit,null) && hit.m_hitPoints<=0.0f )
-				m_formation.wave.shipKilledCallback(this.gameObject);
-			m_formation.killed = true;
-			m_formation.obj = null;
-		}
 	}
 
 	// Update is called once per frame
 	void Update ()
 	{
-		if (!System.Object.ReferenceEquals(m_formation, null))
+		if (m_formation!=null)
 		{
 			// we're formation bound.
 			if (m_formation_freeflight)

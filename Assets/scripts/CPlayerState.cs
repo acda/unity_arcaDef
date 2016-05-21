@@ -13,7 +13,7 @@ public class CPlayerState
 	public void mouseClick(float x,float y)
 	{
 		Vector3 p = new Vector3(x,y,0.0f);
-		Debug.Log("mouse"+p.ToString());
+//		Debug.Log("mouse"+p.ToString());
 		GameObject.Instantiate( m_master.def_cannon_types[0] , p , new Quaternion() );
 		// todo: ..... cloud and place-sound and effect...
 	}

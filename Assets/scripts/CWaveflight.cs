@@ -7,20 +7,21 @@ public class CWaveflight : CWave
 
 	internal class AttachPoint
 	{
-		public AttachPoint(float x0,float y0,int idx,CWaveflight wave){loc.x=x0;loc.y=y0;index=idx;killed=false;this.wave=wave;obj=null;state=PointState.preEnter;phase=0;exdat=null;}
+		public AttachPoint(float x0,float y0,int idx,CWaveflight wave){loc.x=x0;loc.y=y0;index=idx;this.wave=wave;obj=null;pointState=PointState.preEnter;shipState=ShipState.preSpawn;phase=0;exdat=null;}
 
-	public enum PointState : ushort {preEnter,inField,left}
+		public enum PointState : ushort {preEnter,inField,left};
+		public enum ShipState : ushort {preSpawn,spawned,killed,left};
 
-	public Vector2 loc;
-	public float rot;
-	public int index;
-	public CWaveflight wave;
-	public GameObject obj;
-	public bool killed;
-	public PointState state;
-	// for use by special formation
-	public int phase;
-	public System.Object exdat;
+		public Vector2 loc;
+		public float rot;
+		public int index;
+		public CWaveflight wave;
+		public GameObject obj;
+		public ShipState shipState;
+		public PointState pointState;
+		// for use by special formation
+		public int phase;
+		public System.Object exdat;
 	}
 
 	public CWaveflight ()
@@ -41,7 +42,8 @@ public class CWaveflight : CWave
 			if( at.obj != null )
 				Destroy(at.obj);
 			at.obj=null;
-			at.state = AttachPoint.PointState.preEnter;
+			at.pointState = AttachPoint.PointState.preEnter;
+			at.shipState = AttachPoint.ShipState.preSpawn;
 		}
 	}
 
@@ -56,8 +58,9 @@ public class CWaveflight : CWave
 		}
 	}
 
-	void Update()
+	protected override void Update()
 	{
+		bool done=true;
 		if (m_startTime > 0.0f)
 		{
 			m_startTime -= Time.deltaTime;
@@ -67,31 +70,45 @@ public class CWaveflight : CWave
 		for(int i=0;i<m_number;i++)
 		{
 			AttachPoint at = m_members[i];
-			if(System.Object.ReferenceEquals(at.obj,null))
+
+			if (at.pointState == AttachPoint.PointState.inField)
 			{
-				// is not there. spawn if it gets in and is not yet killed
-				if( at.state==AttachPoint.PointState.inField && !at.killed )
+				if (at.shipState == AttachPoint.ShipState.preSpawn)
 				{
 					//Debug.Log("spawn " + i.ToString ());
 					CBaseEnemy be;
-					at.obj = (GameObject)Instantiate(def_shipType0,new Vector3(at.loc.x,at.loc.y,transform.position.z),new Quaternion());
+					at.obj = (GameObject)Instantiate(def_shipType0, new Vector3(at.loc.x, at.loc.y, transform.position.z), new Quaternion());
 					be = at.obj.GetComponent<CBaseEnemy>();
-					be.m_formation = at;		// if having null-exception here, then the def does not contain Component 'CBaseEnemy'. It should.
-					m_spawnCount ++;
-				}
-			}else{
-				// object exists. Check if leaving
-				if( at.obj == null )	// overloaded operator check if destroyed.
+					be.m_formation = at;        // if having null-exception here, then the def does not contain Component 'CBaseEnemy'. It should.
+					m_spawnCount++;
+					at.shipState = AttachPoint.ShipState.spawned;
+				}else if (at.obj == null)
 				{
-					at.killed = true;
+					// killed
 					at.obj = null;
-				}else if( at.state==AttachPoint.PointState.left )
+					at.shipState = AttachPoint.ShipState.killed;
+				}
+			}else if (at.pointState == AttachPoint.PointState.left)
+			{
+				if (at.obj != null)
 				{
+					// leave area
 					Destroy(at.obj);
-					at.obj=null;
+					at.obj = null;
+					at.shipState = AttachPoint.ShipState.left;
 				}
 			}
+			if(at.shipState==AttachPoint.ShipState.preSpawn)
+				done=false;
+			if(at.shipState==AttachPoint.ShipState.spawned)
+				done=false;
 		}
+		if (done && !m_done)
+		{
+			// this wave was completed.
+			m_done = true;
+		}
+		base.Update();
 	}
 
 	public override float spawn_progress(out int totalEnemies,out int spawnedEnemies)
@@ -103,15 +120,6 @@ public class CWaveflight : CWave
 
 	protected virtual void update_positions()
 	{}
-
-	internal override void shipKilledCallback(GameObject ship)
-	{
-		base.shipKilledCallback(ship);
-		AttachPoint at = ship.GetComponent<CBaseEnemy>().m_formation;
-		at.obj = null;
-		at.killed = true;
-
-	}
 
 	internal System.Collections.Generic.List<AttachPoint> m_members;
 

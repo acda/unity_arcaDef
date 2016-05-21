@@ -13,7 +13,8 @@ public class CWaveGroup : CWave
 		{
 			UnityEngine.Assertions.Assert.IsNotNull(waves[i]);		// waves must be defined.
 			UnityEngine.Assertions.Assert.IsNotNull(waves[i].GetComponent<CWave>());	// waves must have CWave behavior
-			m_list[i].wave = waves[i];
+			m_list[i].wave_proto = waves[i];
+			m_list[i].wave = null;
 			m_list[i].start = (i<waves_starttime.Count?waves_starttime[i]:0.0f);
 		}
 		System.Array.Sort(m_list);
@@ -21,14 +22,32 @@ public class CWaveGroup : CWave
 		m_time=0.0f;
 	}
 
-	void Update()
+	protected override void Update()
 	{
+		int i;
 		m_time += Time.deltaTime;
-		while( m_next<m_list.Length && m_time>=m_list[m_next].start )
+		while (m_next < m_list.Length && m_time >= m_list[m_next].start)
 		{
-			Debug.Log("spawn sub-wave "+m_next.ToString());
-			Instantiate(m_list[m_next++].wave,new Vector3(),new Quaternion());
+//			Debug.Log("spawn sub-wave " + m_next.ToString());
+			m_list[m_next].wave = (GameObject)Instantiate(m_list[m_next].wave_proto, new Vector3(), new Quaternion());
+			m_next++;
 		}
+		if(m_next>=m_list.Length)
+		{
+			// check if done.
+			for (i = 0; i < waves.Count; i++)
+			{
+				if (m_list[i].wave != null)
+					break;
+			}
+			if (i >= waves.Count)
+			{
+				if (!m_done)
+					Debug.Log("Wave group done.");
+				m_done = true;
+			}
+		}
+		base.Update();
 	}
 
 	public override float spawn_progress(out int totalEnemies,out int spawnedEnemies)
@@ -38,9 +57,12 @@ public class CWaveGroup : CWave
 		spawnedEnemies = 0;
 		for(int i=0;i<m_list.Length;i++)
 		{
-			m_list[i].wave.GetComponent<CWave>().spawn_progress(out t,out s);
-			totalEnemies += t;
-			spawnedEnemies += s;
+			if (m_list[i].wave != null)
+			{
+				m_list[i].wave.GetComponent<CWave>().spawn_progress(out t, out s);
+				totalEnemies += t;
+				spawnedEnemies += s;
+			}
 		}
 		return ( totalEnemies>0 ? spawnedEnemies/(float)totalEnemies : 1.0f );
 	}
@@ -53,6 +75,7 @@ public class CWaveGroup : CWave
 
 	struct pair : IComparable
 	{
+		public GameObject wave_proto;
 		public GameObject wave;
 		public float start;
 

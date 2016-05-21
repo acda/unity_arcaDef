@@ -8,25 +8,36 @@ using System.Collections;
 public class CHitable : MonoBehaviour
 {
 
+	public delegate void KilledCallback(GameObject thisOne,GameObject instigator);
+
+	public event KilledCallback kill_event;
+
 	// Use this for initialization
 	void Start ()
 	{
 		m_hitPoints = def_baseHitpoints;
+		if (m_hitPoints <= 0.0f)
+			m_hitPoints = 1.0e-6f;
 	}
 	
 	public void takeDamage( GameObject instigator , Vector3 impact , float amount )
 	{
-		m_hitPoints -= 1.0f;
-		if(m_hitPoints<=0.0f)
+		if (m_hitPoints <= 0.0f)
+			return;
+		m_hitPoints -= amount;
+		if (m_hitPoints <= 0.0f)
 		{
 			// spawn a boom.
-			if( ! System.Object.ReferenceEquals(def_boomAnim,null) )
-				Instantiate(def_boomAnim,transform.position,new Quaternion());
+			if (!System.Object.ReferenceEquals(def_boomAnim, null))
+				Instantiate(def_boomAnim, transform.position, new Quaternion());
 			Transform walk = transform;
-			while(!System.Object.ReferenceEquals(walk.parent,null))
+			while (!System.Object.ReferenceEquals(walk.parent, null))
 			{
 				walk = walk.parent;
 			}
+			if (kill_event != null)
+				kill_event.Invoke(gameObject, instigator);
+			kill_event = null;	// this probably doesn't work. long thread on stackoverflow on this.
 			Destroy(walk.gameObject);
 		}
 	}
@@ -34,7 +45,7 @@ public class CHitable : MonoBehaviour
 	private void OnTouchOther(GameObject other)
 	{
 		CBullet shot = other.GetComponent<CBullet>();
-		if ((shot!=null) && 0 != (hitmask & shot.hitmask))
+		if ((shot!=null) && 0 != ((1u<<gameObject.layer) & shot.hitmask))
 		{
 			Vector3 speed;
 			// hit by a bullet.
@@ -81,7 +92,6 @@ public class CHitable : MonoBehaviour
 
 	public float def_baseHitpoints = 1.0f;
 	public GameObject def_boomAnim;
-	public uint hitmask = 65536;
 
 	internal float m_hitPoints;
 }
